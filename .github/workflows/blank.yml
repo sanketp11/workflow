@@ -14,7 +14,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Hello testing print
+      - name: Hello I am iron man
         run: echo Hello, world!
 
       - name: Run a multi-line script
